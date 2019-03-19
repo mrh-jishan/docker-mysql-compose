@@ -2,12 +2,18 @@
 
 ## Make sure you have docker in your system
 
+RUN 
 
-RUN - sudo docker-compose up -d --build
+```sudo docker-compose up -d --build```
 
 
-Browser - localhost:8090
+Browser
 
-Mysql - localhost:3306
+```localhost:8090```
+
+
+Mysql 
+
+```localhost:3306```
 
 
